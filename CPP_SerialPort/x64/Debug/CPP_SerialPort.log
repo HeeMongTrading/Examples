@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Making My_Software\Practice_Software\C++ Example\SerialPort\CPP_SerialPort\main.cpp(30,43): error C2440: 'initializing': cannot convert from 'const char [16]' to 'LPVOID'
+D:\Making My_Software\Practice_Software\C++ Example\SerialPort\CPP_SerialPort\main.cpp(30,26): message : Conversion loses qualifiers
