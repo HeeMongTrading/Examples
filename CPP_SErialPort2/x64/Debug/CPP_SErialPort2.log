@@ -1,0 +1,4 @@
+﻿  serial.cpp
+D:\Making My_Software\Practice_Software\C++ Example\SerialPort\CPP_SErialPort2\serial.cpp(142,12): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'DWORD'
+D:\Making My_Software\Practice_Software\C++ Example\SerialPort\CPP_SErialPort2\serial.cpp(142,12): warning C4313: 'printf': '%s' in format string conflicts with argument 1 of type 'DWORD'
+  CPP_SErialPort2.vcxproj -> D:\Making My_Software\Practice_Software\C++ Example\SerialPort\CPP_SerialPort\x64\Debug\CPP_SErialPort2.exe

@@ -1,0 +1,6 @@
+﻿  main.cpp
+  MyForm.cpp
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Generating Code...
+  main.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  CPP-CLR_SerialPort.vcxproj -> D:\Making My_Software\Practice_Software\C++ Example\SerialPort\CPP_SerialPort\x64\Debug\CPP-CLR_SerialPort.exe

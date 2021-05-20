@@ -1,0 +1,3 @@
+D:\Making My_Software\Practice_Software\C++ Example\SerialPort\CPP-CLR_SerialPort\x64\Debug\CPP-CLR_SerialPort.vcxprojAssemblyReference.cache
+D:\Making My_Software\Practice_Software\C++ Example\SerialPort\CPP-CLR_SerialPort\x64\Debug\CPPCLRSerialPort.MyForm.resources
+D:\Making My_Software\Practice_Software\C++ Example\SerialPort\CPP-CLR_SerialPort\x64\Debug\CPP-CLR_SerialPort.vcxproj.GenerateResource.cache
